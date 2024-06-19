@@ -1,1 +1,1 @@
-#IPYNBrender project
+#IPYNBrender project by ashima
